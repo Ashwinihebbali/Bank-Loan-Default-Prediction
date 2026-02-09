@@ -162,16 +162,10 @@ During notebook execution:
 - ROC-AUC and other performance metrics
 - SHAP values for feature importance analysis
 
-## Author
-
-Financial Machine Learning Project
 
 ## License
 
 This project is for educational purposes.
 
 ---
-
-**Last Updated:** February 2026
-
 For questions or improvements, please refer to the notebook documentation and analysis details.
