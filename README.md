@@ -1,4 +1,4 @@
-# Bank Loan Prediction using Logistic RegressioN
+# Bank Loan Prediction using Logistic Regression
 
 ## Overview
 
