@@ -1,6 +1,6 @@
 # Bank Loan Prediction using Logistic Regression
 
-## Overview
+## Overview 
 
 This project implements a **Logistic Regression model** to predict loan default status based on borrower and loan characteristics. The model is trained on historical bank loan data and can be used to classify new loan applications as likely to default or not default, helping financial institutions make informed lending decisions.
 
